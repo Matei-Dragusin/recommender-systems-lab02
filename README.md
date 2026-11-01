@@ -14,3 +14,7 @@ Proprietatile inregistrate in Recombee:
 - director (string): regizorul
 - overview (string): scurta descriere a filmului
 - gross (int): incasarile filmului
+
+# Laborator 3 - Trimiterea item-urilor
+
+Cele 1000 de filme au fost incarcate cu succes in Recombee.
